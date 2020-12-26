@@ -1,4 +1,3 @@
-# Sophie's Portfolio
 Data Science and Machine Learning Portfolio
 
 ## [Project 1: Explainable AI]
