@@ -11,7 +11,7 @@ User trust building through explainability in image classification tasks as part
 ## [Project 2: Anomaly Detection]
 Anomalies detection in multivariant sensor data comparing PCA and LSTM Autoencoder for predictive maintenance applications.
 
-![AD](https://github.com/sophiefuu/Sophie_Portfolio/blob/main/image/Test11.png)
+![AD_PCA](https://github.com/sophiefuu/Sophie_Portfolio/blob/main/image/Test11.png)
 
 [Project 1: Explainable AI]: https://github.com/sophiefuu/XAI
 [Project 2: Anomaly Detection]: 
