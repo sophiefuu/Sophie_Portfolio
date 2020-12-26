@@ -14,5 +14,5 @@ Anomalies detection in multivariant sensor data comparing PCA and LSTM Autoencod
 ![](https://github.com/sophiefuu/Sophie_Portfolio/blob/main/image/Test11.PNG)
 
 [Project 1: Explainable AI]: https://github.com/sophiefuu/XAI
-[Project 2: Anomaly Detection]: 
+[Project 2: Anomaly Detection]: https://github.com/sophiefuu/AnomalyDetection
 
