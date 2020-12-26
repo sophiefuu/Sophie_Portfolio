@@ -8,8 +8,8 @@ User trust building through explainability in image classification tasks as part
 * Created web application for user tests to find best explainability methods for user trust-building
 
 ## [Project 2: Anomaly Detection]
-Anomalies detection in multivariant sensor data using a LSTM Autoencoder for predictive maintenance applications.
-
+Anomalies detection in multivariant sensor data comparing PCA and LSTM Autoencoder for predictive maintenance applications.
+![](https://github.com/sophiefuu/Sophie_Portfolio/blob/main/image/Test11.png)
 
 [Project 1: Explainable AI]: https://github.com/sophiefuu/XAI
 [Project 2: Anomaly Detection]: 
