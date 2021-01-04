@@ -1,4 +1,3 @@
-Data Science and Machine Learning Portfolio
 
 ## [Project 1: Explainable AI]
 User trust building through explainability in image classification tasks as part of skin cancer diagnosis app.
