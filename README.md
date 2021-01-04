@@ -6,11 +6,13 @@ User trust building through explainability in image classification tasks as part
 * Created web application for user tests to find best explainability methods for user trust-building
 ![Occlusion_positive_30](/image/Occlusion.PNG)
 
+
 ## [Project 2: Anomaly Detection]
 Anomalies detection in multivariant sensor data by comparing PCA and LSTM Autoencoder for predictive maintenance applications.
 Since this project was done in cooperation with a company, the data and specific code sections cannot be shown. Only a general source code is shown.
 
 ![](/image/Test11.PNG)
+
 
 ## [Project 3: Travel Data Analysis]
 Using free available employee business travel data to analyze the CO2 consumption of an organization in Celonis process mining software and calculating the compensation demand in form of trees to plant.
