@@ -2,14 +2,15 @@
 ## [Project 1: Explainable AI]
 User trust building through explainability in image classification tasks as part of skin cancer diagnosis app.
 * Trained CNN model to classify skin images
-* Implemented post-hoc explainability methods like LIME, integrated gradients and Occlusion
-* Created web application for user tests to find best explainability methods for user trust-building
+* Implemented post-hoc explainability methods like LIME, integrated gradients and occlusion
+* Created web application for user tests to find best explainability methods for trust-building
 ![Occlusion_positive_30](/image/Occlusion.PNG)
 
 
 ## [Project 2: Anomaly Detection]
-Anomalies detection in multivariant sensor data by comparing PCA and LSTM Autoencoder for predictive maintenance applications.
-Since this project was done in cooperation with a company, the data and specific code sections cannot be shown. Only a general source code is shown.
+Anomalies detection in multivariant sensor data by comparing PCA and LSTM Autoencoder based methods for predictive maintenance applications.
+
+Since this project was done in cooperation with a company, the data and specific code sections cannot be shown. Only a general source code is uploaded.
 
 ![](/image/Test11.PNG)
 
