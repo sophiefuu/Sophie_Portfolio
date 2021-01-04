@@ -8,6 +8,7 @@ User trust building through explainability in image classification tasks as part
 
 ## [Project 2: Anomaly Detection]
 Anomalies detection in multivariant sensor data by comparing PCA and LSTM Autoencoder for predictive maintenance applications.
+Since this project was done in cooperation with a company, the data and specific code sections cannot be shown. Only a general source code is shown.
 
 ![](https://github.com/sophiefuu/Sophie_Portfolio/blob/main/image/Test11.PNG)
 
@@ -15,6 +16,7 @@ Anomalies detection in multivariant sensor data by comparing PCA and LSTM Autoen
 Using free available employee business travel data to analyze the CO2 consumption of an organization in Celonis process mining software and calculating the compensation demand in form of trees to plant.
 
 ![](https://github.com/sophiefuu/Sophie_Portfolio/blob/main/image/CelonisAnalysis.PNG)
+
 
 [Project 1: Explainable AI]: https://github.com/sophiefuu/XAI
 [Project 2: Anomaly Detection]: https://github.com/sophiefuu/AnomalyDetection
