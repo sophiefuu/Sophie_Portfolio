@@ -4,7 +4,7 @@ User trust building through explainability in image classification tasks as part
 * Trained CNN model to classify skin images
 * Implemented post-hoc explainability methods like LIME, integrated gradients and occlusion
 * Created web application for user tests to find best explainability methods for trust-building
-![web](/image/web.PNG=50x10)
+![web](/image/web.PNG)
 
 
 ## [Project 2: Anomaly Detection]
