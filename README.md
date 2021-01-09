@@ -2,10 +2,10 @@
 ## [Project 1: Explainable AI]
 User trust building through explainability in image classification tasks as part of skin cancer diagnosis app.
 * Trained CNN model to classify skin images
-* Implemented post-hoc explainability methods like LIME, integrated gradients and occlusion
+* Implemented post-hoc explainability methods like LIME, ExMachina and occlusion
 * Created web application for user tests to find best explainability methods for trust-building
 
-![web](/image/web.PNG)
+![concept2](/image/concept2.PNG)
 
 
 ## [Project 2: Anomaly Detection]
