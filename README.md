@@ -5,7 +5,7 @@ User trust building through explainability in image classification tasks as part
 * Implemented post-hoc explainability methods like LIME, ExMachina and occlusion
 * Created web application for user tests to find best explainability methods for trust-building
 
-![concept2](/image/concept2.PNG)
+![concept2](/image/Concept2.PNG)
 
 
 ## [Project 2: Anomaly Detection]
