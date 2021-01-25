@@ -40,3 +40,4 @@ Using free available employee business travel data to analyze the CO2 consumptio
 [Project 2: Anomaly Detection]: https://github.com/sophiefuu/AnomalyDetection
 [Project 3: COVID Vaccine Distribution Analysis]: https://tpl-initiative-covid-vaccine-distribution-en-v1.try.celonis.cloud/process-mining/public/c400551b-b1fa-48f2-9e3f-242ad50cb40e/#/frontend/documents/c400551b-b1fa-48f2-9e3f-242ad50cb40e/view
 [Project 4: Travel Data Analysis]: https://lnkd.in/eagKdmB
+[https://trusting.systems/]: https://trusting.systems/
