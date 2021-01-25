@@ -1,11 +1,12 @@
 
 ## [Project 1: Explainable AI]
-User trust building through explainability in image classification tasks as part of skin cancer diagnosis app.
+Trust in automated systems is becoming increasingly vital, especially where these systems are employed in critical contexts such as the medical assistant tools. With this user study, it is explored how explainability in AI applications can be used to generate trustworthy, accountable systems. 
 
-This included the following:
+This included the following process sets:
 * Training of CNN model to classify skin images
 * Implementing post-hoc explainability methods like Integrated Gradient, Occlusion and LIME
 * Creating a web application for user tests to find best explainability methods for trust-building
+Check out the user test: https://trusting.systems/
 
 ![](/image/Concept2.PNG)
 
