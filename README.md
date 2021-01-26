@@ -7,7 +7,7 @@ This included the following process sets:
 * Implementing post-hoc explainability methods like Integrated Gradient, Occlusion and LIME
 * Creating a web application for user tests to find best explainability methods for trust-building
 
-Check out the user test: https://trusting.systems/
+Check out the user test: [https://trusting.systems/]
 
 ![](/image/Concept2.PNG)
 
