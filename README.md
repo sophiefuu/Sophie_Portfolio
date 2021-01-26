@@ -1,8 +1,8 @@
 
 ## [Project 1: Explainable AI]
-Trust in automated systems is becoming increasingly vital, especially where these systems are employed in critical contexts such as the medical assistant tools. With this user study, it is explored how explainability in AI applications can be used to generate trustworthy, accountable systems. 
+Trust in automated systems is becoming increasingly vital, especially where these systems are employed in critical contexts such as the medical assistant tools. With an user study, it is explored how explainability in AI applications can be used to generate trustworthy, accountable systems. 
 
-This included the following process sets:
+This project included the following process sets:
 * Training of CNN model to classify skin images
 * Implementing post-hoc explainability methods like Integrated Gradient, Occlusion and LIME
 * Creating a web application for user tests to find best explainability methods for trust-building
