@@ -24,6 +24,7 @@ As the project was conducted with a partner company, data specific information c
 The analysis enables the maximization of vaccine capacity by identifying gaps in the delivery process, quality deficiencies and distribution bottlenecks - connecting all stakeholders: Vaccine manufacturers, suppliers, ministries of health, and vaccination centers - but the general population could also benefit from such insights.
 In Germany, there are currently only selective KPIs for vaccine distribution, no process-based insights.
 The analysis also provides a Bavaria-specific insight and benchmarking of suppliers - especially important for a diversified sourcing strategy like the German one.
+[Youtube Video]
 
 ![](/image/vaccine.PNG)
 
@@ -41,3 +42,4 @@ Using free available employee business travel data to analyze the CO2 consumptio
 [Project 3: COVID Vaccine Distribution Analysis]: https://tpl-initiative-covid-vaccine-distribution-en-v1.try.celonis.cloud/process-mining/public/c400551b-b1fa-48f2-9e3f-242ad50cb40e/#/frontend/documents/c400551b-b1fa-48f2-9e3f-242ad50cb40e/view
 [Project 4: Travel Data Analysis]: https://lnkd.in/eagKdmB
 [https://trusting.systems/]: https://trusting.systems/
+[Youtube Video]: https://www.youtube.com/watch?v=7AYtvRG3gCk
