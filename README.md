@@ -33,16 +33,9 @@ The analysis also provides a Bavaria-specific insight and benchmarking of suppli
 
 
 
-## [Project 5: Travel Data Analysis]
-Using free available employee business travel data to analyze the CO2 consumption of an organization in Celonis process mining software and calculating the compensation demand in form of trees to plant. 
-
-![](/image/CelonisAnalysis.PNG)
-
 
 [Project 1: GoGirl]: https://github.com/sophiefuu/go_girl
 [Project 2: Explainable AI]: https://github.com/sophiefuu/XAI
 [Project 3: Anomaly Detection]: https://github.com/sophiefuu/AnomalyDetection
 [Project 4: COVID Vaccine Distribution Analysis]: https://tpl-initiative-covid-vaccine-distribution-en-v1.try.celonis.cloud/process-mining/public/c400551b-b1fa-48f2-9e3f-242ad50cb40e/#/frontend/documents/c400551b-b1fa-48f2-9e3f-242ad50cb40e/view
-[Project 5: Travel Data Analysis]: https://lnkd.in/eagKdmB
-[https://trusting.systems/]: https://trusting.systems/
 [Youtube Video]: https://www.youtube.com/watch?v=7AYtvRG3gCk
