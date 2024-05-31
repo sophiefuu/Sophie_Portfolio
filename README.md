@@ -1,6 +1,8 @@
 ## [Project 1: GoGirl]
 GoGirl is a Go project created to learn Go programming by building a web service and web application.
 
+Check out the [web app](https://www.moreloveandlight.de/)!
+
 
 ## [Project 2: Explainable AI]
 Trust in automated systems is becoming increasingly vital, especially where these systems are employed in critical contexts such as the medical assistant tools. With an user study, it is explored how explainability in AI applications can be used to generate trustworthy, accountable systems. 
