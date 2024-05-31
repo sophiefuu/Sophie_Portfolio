@@ -38,10 +38,6 @@ Using free available employee business travel data to analyze the CO2 consumptio
 
 ![](/image/CelonisAnalysis.PNG)
 
-## [Project 6: Sentimeter]
-Individuals with autism spectrum disorder demonstrate impairments with social language, including narrative skills and conversational abilities. As part of the Microsoft Hackathon 2021, we developed a tool to help these individuals understand the emotional context of messages. Powered by Azure Cognitive Services and Power Apps, Sentimeter plugs directly into Teams to provide a fast and accurate means of identifying the underlying emotional content of messages in near-real time.
-
-![](/image/logo.PNG)
 
 [Project 1: GoGirl]: https://github.com/sophiefuu/go_girl
 [Project 2: Explainable AI]: https://github.com/sophiefuu/XAI
@@ -50,4 +46,3 @@ Individuals with autism spectrum disorder demonstrate impairments with social la
 [Project 5: Travel Data Analysis]: https://lnkd.in/eagKdmB
 [https://trusting.systems/]: https://trusting.systems/
 [Youtube Video]: https://www.youtube.com/watch?v=7AYtvRG3gCk
-[Project 6: Sentimeter]: https://www.linkedin.com/feed/update/urn:li:activity:6854800457299189760/
