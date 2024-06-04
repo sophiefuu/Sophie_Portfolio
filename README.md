@@ -1,7 +1,7 @@
 ## [Project 1: GoGirl]
 GoGirl is a Go project created to learn Go programming by building a web service and web application.
 
-Check out the [web app](https://www.moreloveandlight.de/)!
+Check out the [web app](https://lovelight-e25ed13b0936.herokuapp.com/)!
 
 
 ## [Project 2: Explainable AI]
